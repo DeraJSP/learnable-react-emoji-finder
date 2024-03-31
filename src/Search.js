@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import SearchResult from './SearchResult'
+import './style.css'
 
 export default function Search({ emojiList }) {
 	const [searchInput, setSearchInput] = useState('');
@@ -31,9 +32,13 @@ export default function Search({ emojiList }) {
   }
 
 	return (
-		<div>
-        <input type="text" type="search" onChange={handleChange} />
-        {searchResult()}
-    </div>
+    <>
+      <div className="container">
+        <input type="search" onChange={handleChange} placeholder="Enter a keyword" />
+      </div>
+      <div>
+          {searchResult()}
+      </div>
+    </>
 	);
 }

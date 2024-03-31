@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:700');
+
+body {
+  background: #212129;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+input {
+  width: 800px;
+  height: 80px;
+  background: #dadada;
+  border-radius: 60px;
+  border: none;
+}
+
+::placeholder,
+input {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Inconsolata', monospace;
+}
+
+.result-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: gray;
+  margin: 0 auto;
+  width: 770px;
+  border: none;
+  border-radius: 60px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+  padding: 20px 20px 20px 20px;
+  gap: 40px;
+}
+
+.emoji {
+  width: 80px;
+  border-radius: 60px;
+  font-size: 70px;
+}

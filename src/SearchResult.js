@@ -6,7 +6,7 @@ export default function SearchResult({ filteredEmoji }) {
 		<Card emoji={emoji} />
 		)
 	return (
-		<div>
+		<div className="result-wrap">
 			{filtered}
 		</div>
 	)
