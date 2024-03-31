@@ -2,12 +2,27 @@
 
 body {
   background: #212129;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  vertical-align: center;
+  font-family: 'Inconsolata', monospace;
+  font-size: 50px;
+  color: white;
+  width: 100%;
+  border: 1px solid #212129;
+}
+
+h1 {
+  vertical-align: center;
 }
 
 .container {
   display: flex;
   justify-content: center;
-  margin-top: 200px;
 }
 
 input {
@@ -16,6 +31,7 @@ input {
   background: #dadada;
   border-radius: 60px;
   border: none;
+  margin-top: 50px;
 }
 
 ::placeholder,
