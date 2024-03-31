@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learnable-react-emoji-finder/static/css/main.d2bffb2b.css",
+    "main.js": "/learnable-react-emoji-finder/static/js/main.21c15261.js",
+    "static/js/488.9f41d3f8.chunk.js": "/learnable-react-emoji-finder/static/js/488.9f41d3f8.chunk.js",
+    "index.html": "/learnable-react-emoji-finder/index.html",
+    "main.d2bffb2b.css.map": "/learnable-react-emoji-finder/static/css/main.d2bffb2b.css.map",
+    "main.21c15261.js.map": "/learnable-react-emoji-finder/static/js/main.21c15261.js.map",
+    "488.9f41d3f8.chunk.js.map": "/learnable-react-emoji-finder/static/js/488.9f41d3f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2bffb2b.css",
+    "static/js/main.21c15261.js"
+  ]
+}
