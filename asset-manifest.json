@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/learnable-react-emoji-finder/static/css/main.d2bffb2b.css",
-    "main.js": "/learnable-react-emoji-finder/static/js/main.21c15261.js",
+    "main.css": "/learnable-react-emoji-finder/static/css/main.75d537b4.css",
+    "main.js": "/learnable-react-emoji-finder/static/js/main.ca167efc.js",
     "static/js/488.9f41d3f8.chunk.js": "/learnable-react-emoji-finder/static/js/488.9f41d3f8.chunk.js",
+    "static/media/header.jpg": "/learnable-react-emoji-finder/static/media/header.2d50dcff76660d397108.jpg",
     "index.html": "/learnable-react-emoji-finder/index.html",
-    "main.d2bffb2b.css.map": "/learnable-react-emoji-finder/static/css/main.d2bffb2b.css.map",
-    "main.21c15261.js.map": "/learnable-react-emoji-finder/static/js/main.21c15261.js.map",
+    "main.75d537b4.css.map": "/learnable-react-emoji-finder/static/css/main.75d537b4.css.map",
+    "main.ca167efc.js.map": "/learnable-react-emoji-finder/static/js/main.ca167efc.js.map",
     "488.9f41d3f8.chunk.js.map": "/learnable-react-emoji-finder/static/js/488.9f41d3f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2bffb2b.css",
-    "static/js/main.21c15261.js"
+    "static/css/main.75d537b4.css",
+    "static/js/main.ca167efc.js"
   ]
 }
